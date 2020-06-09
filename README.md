@@ -1,0 +1,2 @@
+# Auditing-XGBoost-model-for-patient-readmission-using-LIME
+•	Deployed a post-hoc interpretability technique LIME (local interpretable model-agnostic explanations) to audit an XGBoost model that predicts patient readmission to a hospital based on their medical history and demographic attributes. The LIME explanations showed that a patient’s race contributed as a distinguishing factor in determining patient readmission. Similar results were observed with SHAP and data triangulation methods.
